@@ -1,0 +1,1 @@
+ T2-Weighted MRI volume & T1-Weighted MRI volumes are of the same subject acquired as a part of Female data set of Visible Human Project.

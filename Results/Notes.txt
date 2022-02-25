@@ -1,0 +1,12 @@
+Fixed_voulme_Slicewise - this folder contains slices acquired from fixed volume / T1 MRI
+
+Moving_voulme_Slicewise - this folder contains slices acquired from Moving volume/ After tranformation / T2 MRI
+
+Fixed_image - T1 MRI volume
+
+Moving_image - Transformed T2 MRI volume
+
+Final_Transform - Translational and Rotational components of the final transform resulted from our best combination
+
+
+ 
