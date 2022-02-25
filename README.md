@@ -18,3 +18,19 @@ Description about folders
 3.Report - Contians a short report on the implemented methodlogies and summary of results
 
 4.Results - Contains necesary reults of this project
+
+Note:- Each folder containes a text document which provides more information about the things inisde respective folder
+
+REFERENCE MATERIALS
+
+1]https://itk.org/ITKSoftwareGuide/html/
+
+2]http://insightsoftwareconsortium.github.io/SimpleITK-Notebooks/Python_html/60_Registration_Introduction.html#Utility-functions
+
+3]https://simpleitk.readthedocs.io/en/master/registrationOverview.html
+
+4]https://simpleitk.org/SPIE2019_COURSE/04_basic_registration.html
+
+5]http://insightsoftwareconsortium.github.io/SimpleITK-Notebooks/Python_html/62_Registration_Tuning.html
+
+6]http://insightsoftwareconsortium.github.io/SimpleITK-Notebooks/Python_html/63_Registration_Initialization.html
